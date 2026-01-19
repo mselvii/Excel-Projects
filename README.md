@@ -1,4 +1,4 @@
-# Excel-projects
+# Excel- Sale Analysis Projects
 
 📊 Excel Data Analysis Workbook – Sales Insights & Visualisation
 Project Overview
