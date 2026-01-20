@@ -1,87 +1,80 @@
-# Excel - Sale Analysis Projects
+## 📊  Excel & Data Analysis Project
 
-📊 Excel Data Analysis Workbook – Sales Insights & Visualisation
-Project Overview
+### 🧠 Project Overview
 
-This project showcases my hands-on experience using Microsoft Excel for data analysis, focusing on cleaning, summarising, and interpreting sales data. The work was completed as part of a Data Technician training programme and demonstrates my ability to transform raw datasets into meaningful business insights using Excel’s core analytical tools.
+This project showcases my hands-on experience using **Microsoft Excel** for **data analysis, reporting, and visualisation** as part of my Data Technician training. The workbook focuses on transforming raw sales data into meaningful business insights using **pivot tables, formulas, and charts**.
 
-The workbook covers pivot tables, Excel functions, and data visualisation, with practical tasks designed to simulate real-world data analysis scenarios.
+---
+## 🛠️ Tools & Technologies
 
-🛠️ Skills Demonstrated
+* **Microsoft Excel**
+* Pivot Tables & Pivot Charts
+* Excel Functions (SWITCH, logical formulas)
+* Data Cleaning & Structuring
+* Data Visualisation
 
-Data analysis using Excel
+---
+## 📈 Key Skills Demonstrated
 
-Pivot Tables & Pivot Charts
+### 🔹 Data Analysis
 
-Sales performance analysis
+* Analysed **global bike sales data** across **countries, markets, age groups, and gender**
+* Identified **top-performing markets** and **customer purchasing patterns**
+* Compared regional sales trends to uncover **high and low demand areas**
 
-Excel formulas and functions (including SWITCH)
+### 🔹 Pivot Tables & Reporting
 
-Data summarisation by category, region, and demographics
+* Built **multi-dimensional pivot tables** to summarise large datasets
+* Analysed sales by:
 
-Insight generation & business interpretation
+  * Country 🌍
+  * Market segment 👥
+  * Age group 🎯
+  * Gender 🚻
+* Extracted insights such as:
 
-Data visualisation best practices
+  * 🇺🇸 United States as the highest purchasing market
+  * 🇨🇦 Canada showing low overall sales
+  * Female customers generating higher overall sales
+<img width="377" height="150" alt="image" src="https://github.com/user-attachments/assets/6f3f929a-6594-42e4-8e45-00809e1ab85f" />
 
-📌 Key Tasks & Analysis
-1. Sales Analysis with Pivot Tables
+	
 
-Analysed a global bike sales dataset using Pivot Tables
 
-Explored sales performance by:
+---
+## 🧮 Excel Functions & Formulas
 
-Country
+### 🔁 SWITCH Function
 
-Market
+Used the **SWITCH function** to categorise product sales performance:
 
-Age group
+* 🟢 **High** – Sales greater than 600
+* 🟡 **Medium** – Sales between 300 and 600
+* 🔴 **Low** – Sales below 300
 
-Gender
+This improved **data readability** and enabled faster decision-making when analysing product performance across counties.
 
-Identified key trends such as:
+---
+## 📊 Data Visualisation
 
-The United States as the highest purchasing market
+* Created charts to visually represent sales trends and comparisons
+* Improved stakeholder understanding by converting raw numbers into **clear visual insights**
+* Practiced selecting the right chart types for different analytical questions
+<img width="362" height="186" alt="image" src="https://github.com/user-attachments/assets/2064504c-faf5-432f-8bc4-4bf8fc18e720" />
 
-United Kingdom having sales across all markets
+---
+## 🔍 Key Insights Discovered
 
-Higher overall sales among female customers
+* The **UK** had sales across all market segments
+* **Germany’s** customers were concentrated within the *Adults* market
+* **Canada’s** sales came primarily from *Young Adults*
+* Overall, **female purchasing trends outperformed male sales**
 
-Market-specific purchasing behaviour by age group (e.g. Canada vs Germany)
+---
+## 🚀 Summary
 
-📈 This task demonstrates my ability to segment data and extract actionable insights.
+✔ Strong foundation in **Excel-based data analysis**
+✔ Ability to **translate data into business insights**
+✔ Confident use of **pivot tables, formulas, and visualisations**
+✔ Practical experience working with **real-world datasets**
 
-2. Product Sales Categorisation Using Excel Functions
-
-Created a Pivot Table summarising product sales by county and product type
-
-Used the SWITCH function to categorise sales volume into:
-
-High
-
-Medium
-
-Low
-
-Applied logical conditions to automate classification and improve data readability
-
-🧮 This highlights my understanding of Excel logic functions and structured data categorisation.
-
-3. Data Visualisation
-
-Explored sales data through charts and visual dashboards
-
-Focused on presenting insights clearly for non-technical audiences
-
-Reinforced best practices in data storytelling using Excel visuals
-
-📊 This reflects my ability to communicate insights visually, not just numerically.
-
-🚀 Tools Used
-
-Microsoft Excel (Online)
-
-Pivot Tables & Pivot Charts
-
-Excel Functions (SWITCH, logical conditions)
-
-Data visualisation tools
