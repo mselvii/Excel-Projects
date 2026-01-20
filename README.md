@@ -36,7 +36,7 @@ This project showcases my hands-on experience using **Microsoft Excel** for **da
   * 🇺🇸 United States as the highest purchasing market
   * 🇨🇦 Canada showing low overall sales
   * Female customers generating higher overall sales
-<img width="377" height="150" alt="image" src="https://github.com/user-attachments/assets/6f3f929a-6594-42e4-8e45-00809e1ab85f" />
+<img width="377" height="377" alt="image" src="https://github.com/user-attachments/assets/6f3f929a-6594-42e4-8e45-00809e1ab85f" />
 
 	
 
